@@ -8,10 +8,10 @@
 ## 📋 Purpose / 用途
 
 **English:**  
-This repository is exclusively used for storing static assets (images, icons, fonts, etc.) as a Git submodule for my main documentation repository. It is **NOT** a CDN (Content Delivery Network) service.
+This repository is exclusively used for storing static assets (images, icons, fonts, etc.) as a Git submodule for my main documentation repository. It is **NOT** a CDN service.
 
 **中文：**  
-此仓库仅用于作为主文档仓库的 Git 子模块，存储静态资源文件（图片、图标、字体等）。**此仓库不提供 CDN（内容分发网络）服务。**
+此仓库仅用于作为主文档仓库的 Git 子模块，存储静态资源文件（图片、图标、字体等）。**此仓库不提供 CDN 服务。**
 
 ---
 
